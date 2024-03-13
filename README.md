@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sanskar Bosmia
+- 👀 I’m interested in Java, Web Development, DSA
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me - linkedin.com/in/sanskarbosmia
