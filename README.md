@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sanskar Bosmia</h1>
-<h3 align="center">.NET Developer | Lifelong Learner 🚀</h3>
+# 👋 Hey there! I'm Sanskar Bosmia
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Passionate+about+Tech" alt="Typing SVG" />
-</p>
+### 🌐 Full-Stack Developer | Code Enthusiast | Lifelong Learner
 
----
+I’m a passionate Software Developer who loves solving real-world problems with clean, scalable code. While I speak fluent **C#** and **Java**, I enjoy flirting with **Angular** on the front and getting serious with **.NET** at the back.
 
-### 🧑‍💻 About Me
-
-- 🎓 MCA Graduate
-- 💼 Currently working as a **.NET Developer**
-- 🌱 I’m currently building **SpendSmart** – a full-stack expense manager app
-- 💡 I love working with **.NET, C#, Angular**, and diving into **clean backend APIs**
-- 📚 Always learning something new in tech!
+When I'm not coding, I’m probably brainstorming ideas, sipping chai, or wondering why semicolons are so underrated 😄
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-```yaml
-💻 Languages:        C#, Java, JavaScript, HTML, CSS  
-🛠️ Frameworks:       .NET, ASP.NET Core, Angular, SpringBoot  
-🗄️ Databases:        SQL Server, Cosmos DB, MySQL  
-🌐 Frontend:         Angular Material, Bootstrap  
-🔧 Tools:            Git, GitHub, Postman, VS Code, Visual Studio  
+- **Languages:** C#, Java, HTML, JavaScript, SQL  
+- **Frameworks/Tools:** .NET, Angular  
+- **Current Focus:** Building full-stack applications using .NET + Angular  
+- **Looking for:** Collaboration, Open Source contributions, and Freelance gigs  
+
+---
+
+## 🛠 What I Build
+
+Although I’m still growing my GitHub garden 🌱, my focus is on:
+- RESTful APIs with .NET  
+- Full-stack web apps  
+- Fun personal projects (coming soon!)  
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sanskarbosmia)  
+- 📧 sanskarbosmia@gmail.com
+
+---
+
+## ✨ Quote I Live By
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+<!-- GitHub Stats (optional: once you make some commits, uncomment below) -->
+<!-- 
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarbosmia&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarbosmia&layout=compact&theme=dark)
+-->
+
