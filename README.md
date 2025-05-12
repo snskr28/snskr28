@@ -2,7 +2,7 @@
 
 ### 🌐 Full-Stack Developer | Code Enthusiast | Lifelong Learner
 
-I’m a passionate Software Developer who loves solving real-world problems with clean, scalable code. While I speak fluent **C#** and **Java**, I enjoy flirting with **Angular** on the front and getting serious with **.NET** at the back.
+I’m a passionate Software Developer who enjoys turning ideas into functional, elegant solutions. I work fluently with **C#** and **Java**, love building interactive front ends with **Angular**, and feel right at home designing back ends with **.NET**.
 
 When I'm not coding, I’m probably brainstorming ideas, sipping chai, or wondering why semicolons are so underrated 😄
 
@@ -39,9 +39,9 @@ Although I’m still growing my GitHub garden 🌱, my focus is on:
 
 ---
 
-<!-- GitHub Stats (optional: once you make some commits, uncomment below) -->
-<!-- 
+<!-- GitHub Stats -->
+ 
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarbosmia&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarbosmia&layout=compact&theme=dark)
--->
+
 
