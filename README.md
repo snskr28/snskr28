@@ -40,8 +40,8 @@ Although I’m still growing my GitHub garden 🌱, my focus is on:
 ---
 
 <!-- GitHub Stats -->
- 
+<!-- 
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarbosmia&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarbosmia&layout=compact&theme=dark)
-
+-->
 
